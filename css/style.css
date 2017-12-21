@@ -1,0 +1,13 @@
+html,body{
+    font-family: Roboto;
+}
+.navbar{
+    background: #ff6d00;
+}
+.navbar-brand{
+    max-width: 200px;
+    max-height: 200px;
+}
+.home {
+    background-image: url("https://cdn.pixabay.com/photo/2017/12/14/19/47/cake-3019645_960_720.jpg");
+}
