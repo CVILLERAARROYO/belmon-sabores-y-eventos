@@ -5,7 +5,11 @@ html,body,
 /* Navegacion*/
 .navbar {
     background-color: transparent;
-
+    font-size: 20px;
+    
+}
+.navbar-toggler{
+    margin-top: 50px;
 }
 }
 .scrolling-navbar {
@@ -17,8 +21,24 @@ html,body,
     background-color: #1C2331;  
 }
 .img-logo{
-    max-width: 200px;
-    max-height: 50px;
+    max-width: 400px;
+    max-height: 90px;
+}
+/* sections */
+.menu{
+    background: #cac1c1;
+}
+.decoraciones{
+    background: red;
+}
+.galeria{
+    background: blue;
+}
+.quienes-somos{
+    background: green;
+}
+.contacto{
+    background: grey;
 }
 /* footer */
 footer.page-footer {
