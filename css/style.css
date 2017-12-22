@@ -26,10 +26,20 @@ html,body,
 }
 /* sections */
 .menu{
-    background: #cac1c1;
+    background:#ffffff;
+}
+.card{
+    align-content: center;
+    text-align: center;
+    margin: 5px 0px 5px 0px;
+}
+.img-card{
+    max-width: 350px;
+    max-height: 200px;
 }
 .decoraciones{
-    background: red;
+    background-color: #2BBBAD;
+    color: #ffffff;
 }
 .galeria{
     background: blue;
