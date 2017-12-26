@@ -5,7 +5,7 @@ html,body,
 /* Navegacion*/
 .navbar {
     background-color: transparent;
-    font-size: 20px;
+    font-size: 18px;
     
 }
 .navbar-toggler{
@@ -41,8 +41,8 @@ html,body,
     background-color: #2BBBAD;
     color: #ffffff;
 }
-.galeria{
-    background: blue;
+#carouselIndicators{
+    margin-bottom: 30px;
 }
 .quienes-somos{
     background: green;
