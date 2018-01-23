@@ -17,7 +17,7 @@ html,body,
     transition: background .5s ease-in-out, padding .5s ease-in-out;
 }
 .top-nav-collapse {
-    background-color: #1C2331;  
+    background-color: #083756;  
 }
 .img-logo{
     max-width: 400px;
@@ -51,16 +51,16 @@ html,body,
 }
 /* footer */
 footer.page-footer {
-    background-color: #1C2331;
+    background-color: #083756;
     margin-top: -1px;
 }
 @media only screen and (max-width: 768px) {
     .navbar {
-        background-color:  #1C2331;  
+        background-color:  #083756;  
     }
 }
 .navbar .btn-group .dropdown-menu a:hover {
-    color: #1C2331 !important;
+    color: #083756 !important;
 }
 .navbar .btn-group .dropdown-menu a:active {
     color: #fff !important;
